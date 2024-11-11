@@ -11,8 +11,9 @@ The Employee Management System (EMS) is a Java-based application designed to man
 
 ## Tech Stack
 
-- **Backend**: Java (JDK 8+)
+- **Technologies Used**: Core Java (Swing & AWT)
 - **Database**: MySQL
+- **IDE Used**: Intellij idea
 
 ## Usage
 
