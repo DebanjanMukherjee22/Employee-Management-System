@@ -1,4 +1,4 @@
-# Employee-Management-System
+# Employee Management System
 
 The Employee Management System (EMS) is a Java-based application designed to manage employee data within an organization. It provides features for adding, editing, deleting, and viewing employee records, along with managing roles, department.
 
